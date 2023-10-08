@@ -3,7 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
 </div>
+Let's Connect
 
+If you have any questions or would like to discuss data science, analytics, or anything else, feel free to reach out. Looking forward to connecting with you! 👥
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,7 +40,4 @@ I possess a range of skills, including:
 📦 Project Management
 📱 Entrepreneurship
 🗣 Communication
-Let's Connect
-Feel free to connect with me on LinkedIn to stay updated on my journey and connect with like-minded professionals. You can find my LinkedIn profile here.
 
-If you have any questions or would like to discuss data science, analytics, or anything else, feel free to reach out. Looking forward to connecting with you! 👥
